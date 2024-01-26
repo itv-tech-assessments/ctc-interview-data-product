@@ -1,0 +1,46 @@
+[
+    {
+        "username": "sam",
+        "dob": "25th December 1990",
+        "email_address": "sam@email.com",
+        "ad_consent": "full_targetting",
+        "religion": "none"
+    },
+    {
+        "username": "bob",
+        "dob": "25th December 1985",
+        "email_address": "bob@email.com",
+        "ad_consent": "no_targetting",
+        "religion": "catholic"
+    },
+    {
+        "username": "will",
+        "dob": "",
+        "email_address": "bobs_email_address",
+        "ad_consent": "no_targetting",
+        "religion": null
+    },
+    {
+        "username": null,
+        "dob": "25th December 1985",
+        "email_address": null,
+        "ad_consent": "no_targetting",
+        "religion": null
+    },
+    {
+        "username": "tom"
+    },
+    {
+        "username": "",
+        "dob": "1st January 1930",
+        "email_address": "blank@email.com",
+        "ad_consent": "full_targetting",
+        "religion": "muslim"
+    },
+    {
+        "username": "jerry",
+        "dob": "21st February 2010",
+        "email_address": "jerry@email.com",
+        "religion": ""
+    }
+]
