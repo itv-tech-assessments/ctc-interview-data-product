@@ -4,28 +4,28 @@
         "dob": "25th December 1990",
         "email_address": "sam@email.com",
         "ad_consent": "full_targetting",
-        "religion": "none"
+        "ethnicity": "asian_or_asian_british"
     },
     {
         "username": "bob",
         "dob": "25th December 1985",
         "email_address": "bob@email.com",
         "ad_consent": "no_targetting",
-        "religion": "catholic"
+        "ethnicity": "black_or_black_british_or_caribbean_or_african"
     },
     {
         "username": "will",
         "dob": "",
         "email_address": "bobs_email_address",
         "ad_consent": "no_targetting",
-        "religion": null
+        "ethnicity": null
     },
     {
         "username": null,
         "dob": "25th December 1985",
         "email_address": null,
         "ad_consent": "no_targetting",
-        "religion": null
+        "ethnicity": null
     },
     {
         "username": "tom"
@@ -35,12 +35,12 @@
         "dob": "1st January 1930",
         "email_address": "blank@email.com",
         "ad_consent": "full_targetting",
-        "religion": "muslim"
+        "ethnicity": "white"
     },
     {
         "username": "jerry",
         "dob": "21st February 2010",
         "email_address": "jerry@email.com",
-        "religion": ""
+        "ethnicity": ""
     }
 ]
