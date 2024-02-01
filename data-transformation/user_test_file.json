@@ -4,14 +4,14 @@
         "dob": "25th December 1990",
         "email_address": "sam@email.com",
         "ad_consent": "full_targetting",
-        "ethnicity": "asian_or_asian_british"
+        "ethnicity": "asian_british"
     },
     {
         "username": "bob",
         "dob": "25th December 1985",
         "email_address": "bob@email.com",
         "ad_consent": "no_targetting",
-        "ethnicity": "black_or_black_british_or_caribbean_or_african"
+        "ethnicity": "black_caribbean"
     },
     {
         "username": "will",
@@ -35,7 +35,7 @@
         "dob": "1st January 1930",
         "email_address": "blank@email.com",
         "ad_consent": "full_targetting",
-        "ethnicity": "white"
+        "ethnicity": "white_british"
     },
     {
         "username": "jerry",
